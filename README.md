@@ -37,6 +37,8 @@ A simple to-do list application to add and manage tasks dynamically.
 ## Technologies Used  
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)  
+- JavaScript 
 
 ---
+## Conclusion
+This internship helped me strengthen my understanding of front-end web development. Building real-world projects like a calculator and a to-do list improved my coding skills and confidence in working with HTML, CSS, and JavaScript.
