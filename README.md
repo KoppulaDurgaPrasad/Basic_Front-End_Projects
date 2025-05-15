@@ -1,48 +1,42 @@
-Micro-IT Virtual Internship: Software Developer Intern (Front-End Development)
+# Micro-IT Virtual Internship  
+*Role:* Software Developer Intern – Front-End Development  
 
-Overview
+## Overview  
+This repository contains the front-end development projects completed during the *Micro-IT Virtual Internship. The projects were focused on building practical skills using **HTML, **CSS, and **JavaScript*.
 
-This repository contains front-end development projects completed during the Micro-IT Virtual Internship as a Software Developer Intern. The internship focused on building core skills in HTML, CSS, and JavaScript by developing simple, functional web applications.
-Projects Completed
+---
 
-1. Simple Calculator
+## Projects  
 
-A basic calculator built using HTML, CSS, and JavaScript. The calculator uses eval() to compute arithmetic expressions and onclick events to handle user interaction.
+### 1. Simple Calculator  
+A basic calculator that performs arithmetic operations using eval() and handles input via onclick events.  
 
-Key Features:
+*Features:*  
+- Addition, Subtraction, Multiplication, and Division  
+- Clear button to reset input  
+- Built with HTML, CSS, and JavaScript  
 
-Performs addition, subtraction, multiplication, and division
+*How to Run:*  
+- Open calculator.html in any web browser  
 
-Interactive button-based input
+---
 
-Displays results in real-time on screen
+### 2. To-Do List  
+A simple to-do list application to add and manage tasks dynamically.  
 
-2. To-Do List Application
+*Features:*  
+- Add, delete, and mark tasks as complete  
+- Fully interactive with real-time updates  
+- Built using HTML, CSS, and JavaScript  
 
-A simple task management app developed using front-end technologies.
+*How to Run:*  
+- Open todo.html in any web browser  
 
-Key Features:
+---
 
-Add, complete, and delete tasks
+## Technologies Used  
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
 
-Dynamic DOM updates on user actions
-
-Organized layout with input field and task list
-
-Technologies Used
-
-HTML5
-
-CSS3
-
-JavaScript 
-
-What I Learned
-
-DOM manipulation and event handling
-
-Writing clean and modular JavaScript
-
- and styling using CSS
-
-Debugging and testing small-scale web apps
+---
