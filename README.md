@@ -2,7 +2,7 @@
 *Role:* Software Developer Intern – Front-End Development  
 
 ## Overview  
-This repository contains the front-end development projects completed during the *Micro-IT Virtual Internship. The projects were focused on building practical skills using **HTML, **CSS, and **JavaScript*.
+This repository contains the  basic front-end development projects . The projects were focused on building practical skills using **HTML, **CSS, and **JavaScript*.
 
 ---
 
@@ -41,4 +41,4 @@ A simple to-do list application to add and manage tasks dynamically.
 
 ---
 ## Conclusion
-This internship helped me strengthen my understanding of front-end web development. Building real-world projects like a calculator and a to-do list improved my coding skills and confidence in working with HTML, CSS, and JavaScript.
+This  helped me strengthen my understanding of front-end web development. Building real-world projects  my coding skills and confidence in working with HTML, CSS, and JavaScript.
