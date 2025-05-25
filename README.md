@@ -1,7 +1,7 @@
 # Basic Front-End Projects
 
 ## Overview  
-This repository contains the  basic front-end development projects . The projects were focused on building practical skills using **HTML, **CSS, and **JavaScript*.
+This repository contains the  basic front-end development projects . The projects were focused on building practical skills using **HTML, **CSS, and **JavaScript**.
 
 ---
 
