@@ -33,6 +33,18 @@ A simple to-do list application to add and manage tasks dynamically.
 
 ---
 
+### 3. Youtuble_Clone
+A basic front-end clone of the YouTube homepage. This project replicates the layout and design of YouTube using HTML and CSS.
+
+*Features:*
+- Responsive layout
+- Video thumbnails, titles, and channel info
+- Navigation bar and sidebar
+
+*How to Run:*
+- Open Youtube_Clone.html in any web browser
+
+
 ## Technologies Used  
 - HTML5  
 - CSS3  
