@@ -1,0 +1,50 @@
+body{
+    background: rgba(176, 187, 187, 0.819);
+}
+h1{
+    padding-top: 120px ;
+    text-align: center;
+    font-style: italic;
+    margin-right: none;
+    font-size: 50px;
+}
+ img{
+    height: 50px;
+    width: 80px;
+    vertical-align:text-top;
+    margin-left: none;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Field{
+    width: 400px;
+    height: 48px;
+    border: 3px solid black;
+    outline: none;
+    vertical-align: middle;
+    
+    font-size: 25px;
+}
+#add{
+    height: 54px;
+    width: 50px;
+    border: 3px solid black;
+    font-size: 30px;
+    cursor: pointer;
+}
+.todo-header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.todos{      
+    width: 458px;
+    font-size: 26px;
+    gap: 3px;
+    cursor: pointer;
+    margin-top: 10px;
+    background-color: whitesmoke;
+}
