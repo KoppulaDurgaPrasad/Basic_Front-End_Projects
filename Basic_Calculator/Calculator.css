@@ -1,0 +1,53 @@
+body{
+    background: rgba(177, 240, 240, 0.819);
+}
+h1{
+    padding-top: 50px ;
+    text-align: center;
+    font-style: italic;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cal{
+    background: rgb(60, 66, 80);
+    padding: 20px ;
+    border-radius: 15px;
+    
+}
+.cal form input{
+    border: 0;
+    outline: 0;
+    width: 60px;
+    height: 60px;
+    border-radius: 10px;
+    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px rgba(0, 0, 0, 0.2);
+    background: transparent;
+    font-size: 25px;
+    color: white;
+   cursor: pointer;
+   margin: 10px;
+}
+
+form .dis{
+    display: flex;
+    justify-content: flex-end;
+    margin: 15px 0;
+}
+form .dis input{
+    text-align: right;
+    flex: 1;
+    font-size: 40px;
+    box-shadow: none;
+    background-color: whitesmoke;
+    color: black;
+}
+input{
+    border-color: whitesmoke;
+}
+form input.Equal{
+    width: 160px;
+
+}
