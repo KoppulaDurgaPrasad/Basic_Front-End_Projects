@@ -44,7 +44,7 @@ A basic front-end clone of the YouTube homepage. This project replicates the lay
 *How to Run:*
 - Open Youtube_Clone.html in any web browser
 
-  ---
+---
 
   ### 4. Rock Paper Scissors
   A simple Rock-Paper-Scissors game where the user plays against the computer.
@@ -56,7 +56,7 @@ A basic front-end clone of the YouTube homepage. This project replicates the lay
   *How to Run:*
    - Open rockpaperscissors.html in any web browser
 
-  ---
+---
 
 ## Technologies Used  
 - HTML5  
