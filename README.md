@@ -58,11 +58,25 @@ A basic front-end clone of the YouTube homepage. This project replicates the lay
 
 ---
 
+### 5. TIC-TAC-TOE
+A simple Tic-Tac-Toe game where players take turns marking `X` or `O` on a 3X3 grid. The goal is to form a winning pattern before the opponent does!
+*Features:*
+- Player vs Player mode
+- Automated win detection using JavaScript 
+- Reset functionality to restart the game
+- Smooth and interactive gameplay
+
+*How to Run:*
+- Open Tic-Tac-Toe.html in any web browser
+
+---
+
 ## Technologies Used  
 - HTML5  
 - CSS3  
 - JavaScript 
 
 ---
+
 ## Conclusion
 This  helped me strengthen my understanding of front-end web development. Building real-world projects  my coding skills and confidence in working with HTML, CSS, and JavaScript.
