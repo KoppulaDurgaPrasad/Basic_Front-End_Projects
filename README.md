@@ -48,6 +48,7 @@ A basic front-end clone of the YouTube homepage. This project replicates the lay
 
   ### 4. Rock Paper Scissors
   A simple Rock-Paper-Scissors game where the user plays against the computer.
+  
   *Features:*
   - Player vs Computer gameplay
   - Random computer move generation
@@ -60,6 +61,7 @@ A basic front-end clone of the YouTube homepage. This project replicates the lay
 
 ### 5. TIC-TAC-TOE
 A simple Tic-Tac-Toe game where players take turns marking `X` or `O` on a 3X3 grid. The goal is to form a winning pattern before the opponent does!
+
 *Features:*
 - Player vs Player mode
 - Automated win detection using JavaScript 
